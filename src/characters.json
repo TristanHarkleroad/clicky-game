@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/beta_ray_bill.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/colossus(ultimate).jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/036dpl_com_crd_01.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/electrocloseup.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/pete--galactus_low_angle.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ult_juggernaut_head.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ko-rel.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/074lgn_com_crd_01.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/201mqb_com_crd_01_4.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/venom_spawn_(donna)_head.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/102mag_com_crd_01_0.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/034wlv_com_crd_01.jpg",
+    "clicked": false
+  }
+]
